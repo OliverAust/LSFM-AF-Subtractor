@@ -19,15 +19,15 @@ A roi box is drawn on an autofluorescent structure which is used for automatic c
 
 **Bone:**
 
-![grafik](https://user-images.githubusercontent.com/90180771/181044344-f97678aa-1281-43f1-8e28-fc84f59a9290.png)
+![grafik](https://user-images.githubusercontent.com/90180771/181058626-7896ebba-c083-4604-b56d-5dce9308f0f2.png)
 
-(Subtracted Left, Raw Right)
+(Raw data left, subtracted right)
 
 **Brain:**
 
 ![grafik](https://user-images.githubusercontent.com/90180771/181044460-57ffc6cb-0c9b-4b0f-bc66-0aa875e85a76.png)
 
-(Subtracted Right, Raw Left)
+(Raw data left, subtracted right)
 
 ## Installation
 To install the Plugin, simply move the “Autofluorescence_SubtractionForLSFM-0.1.jar” File in your ImageJ Folder under “Plugins”. You have to restart ImageJ if it was already open.
