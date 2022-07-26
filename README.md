@@ -29,10 +29,11 @@ A roi box is drawn on an autofluorescent structure which is used for automatic c
 
 (Subtracted Right, Raw Left)
 
-## Introduction & Installation
+## Installation
 To install the Plugin, simply move the “Autofluorescence_SubtractionForLSFM-0.1.jar” File in your ImageJ Folder under “Plugins”. You have to restart ImageJ if it was already open.
 
 ## Setup
+
 Open the LSFM data by pressing File -> Import -> Image Sequence. Select the first image. For the Ultravision II (Miltenyi Biotec) the images from the first recorded channel are named C00, for the second C01, and so on. For example, during measurement the 561 channel and the 647 channel were selected. Images obtained by 561 nm excitation include the name C00 and the ones obtained from 647 nm excitation include the name C01. Import the channels seperately by typing C00 and C01 in the „File name contains“ field.
 
 ![grafik](https://user-images.githubusercontent.com/90180771/181041436-9f29964b-ae5d-49f9-bb03-c6cb82d2ddd5.png)
